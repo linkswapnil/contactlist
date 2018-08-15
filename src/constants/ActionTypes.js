@@ -1,0 +1,7 @@
+// Counter
+export const ADD_CONTACT = 'ADD CONTACT'
+export const EDIT_CONTACT = 'EDIT CONTACT'
+export const DELETE_CONTACT = 'DELETE CONTACT'
+export const ADDING_CONTACT = 'ADDING CONTACT'
+export const CONTACT_ADDED = 'CONTACT ADDED'
+export const CANCEL_ADD_CONTACT = 'CANCEL_ADD_CONTACT'
