@@ -1,3 +1,6 @@
+### `npm i`
+To install dependencies
+
 Once the installation is done, you can run some commands inside the project folder:
 
 ### `npm start` or `yarn start`
